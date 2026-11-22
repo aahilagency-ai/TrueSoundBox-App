@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "559253884123",
+    "project_id": "truesoundbox",
+    "storage_bucket": "truesoundbox.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559253884123:android:3347719515536bfc3690fe",
+        "android_client_info": {
+          "package_name": "com.example.truesoundbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559253884123-mocnpak5m952943318fe3b5ps2tcvbsq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.truesoundbox",
+            "certificate_hash": "6d3196ff553519b1f72590b8e50ba16404876629"
+          }
+        },
+        {
+          "client_id": "559253884123-hsuadjkbt6pn0ibq4q6tqfts13g42r0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE4ELDtm9nA-EbHxvhklIm1_XaFM6JXvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559253884123-hsuadjkbt6pn0ibq4q6tqfts13g42r0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559253884123:android:8199fbcb2c79e2393690fe",
+        "android_client_info": {
+          "package_name": "com.example.tureboxadminpanal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559253884123-4ivf49m0ejd6ugocv3pg1pc3m3vt42g9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tureboxadminpanal",
+            "certificate_hash": "6d3196ff553519b1f72590b8e50ba16404876629"
+          }
+        },
+        {
+          "client_id": "559253884123-hsuadjkbt6pn0ibq4q6tqfts13g42r0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE4ELDtm9nA-EbHxvhklIm1_XaFM6JXvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559253884123-hsuadjkbt6pn0ibq4q6tqfts13g42r0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559253884123:android:e480dc78c070b9783690fe",
+        "android_client_info": {
+          "package_name": "com.texhuman.truesoundbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559253884123-patqjlqmgdb4eackjjm960e35jenos4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.texhuman.truesoundbox",
+            "certificate_hash": "6d3196ff553519b1f72590b8e50ba16404876629"
+          }
+        },
+        {
+          "client_id": "559253884123-hsuadjkbt6pn0ibq4q6tqfts13g42r0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE4ELDtm9nA-EbHxvhklIm1_XaFM6JXvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559253884123-hsuadjkbt6pn0ibq4q6tqfts13g42r0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
