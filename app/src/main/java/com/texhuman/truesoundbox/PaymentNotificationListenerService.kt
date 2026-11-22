@@ -29,7 +29,7 @@ class PaymentNotificationListenerService : NotificationListenerService() {
             !combined.contains("credited", ignoreCase = true)
         ) return
 
-        val amountMatcher = Pattern.compile("(?:₹|Rs\.?|INR)\s*([0-9,]+(?:\.[0-9]{1,2})?)", Pattern.CASE_INSENSITIVE)
+        val amountMatcher = Pattern.compile("(?:₹|Rs\\.?|INR)\\s*([0-9,]+(?:\\.[0-9]{1,2})?)", Pattern.CASE_INSENSITIVE)
             .matcher(combined)
 
         if (amountMatcher.find()) {
